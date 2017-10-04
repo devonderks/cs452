@@ -1,3 +1,5 @@
+/* test */
+
 CC = gcc
 CFLAGS = -g
 LIBS = -lpthread
